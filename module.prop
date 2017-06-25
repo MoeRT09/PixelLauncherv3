@@ -1,7 +1,7 @@
-id=template
+id=PixelLauncherv3
 name=Template Module
 version=v1
 versionCode=1
-author=topjohnwu
-description=A short description
+author=MoeRT09
+description=Installs Pixel Launcher as system app systemlessy
 template=3
